@@ -1,3 +1,3 @@
-# Abdurrahmancv/Physia
+# Abdurrahmancv/physia
 
 AABB collision engine.
